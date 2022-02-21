@@ -11,5 +11,3 @@ Detailed information about the course is available in the dedicated web pages.
 | Web Applications I (A-J)| F. Corno | <http://bit.ly/polito-wa1> | [:arrow_forward:](https://youtube.com/playlist?list=PLqRTLlwsxDL8LogzYk6FrGEM20us5Wkzh) | <https://github.com/polito-WA1-AW1-2022> |
 | Web Applications I (M-Z) |  L. De Russis |  | [:arrow_forward:]()  | <https://github.com/polito-WA1-AW1-2022> |
 | Applicazioni Web I  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:]() | <https://github.com/polito-WA1-AW1-2022> |
-|
-
