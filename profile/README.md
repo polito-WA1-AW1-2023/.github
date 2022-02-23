@@ -6,12 +6,14 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 Detailed information about the course is available in the dedicated web pages.
 
-| Course | Teacher | Course website | YouTube | GitHub |
+| Course | Teacher | Course website | YouTube | Exercises |
 |----------|-------|---------|---------|--------|
-| Web Applications I (A-J)| F. Corno | <http://bit.ly/polito-wa1> | [:arrow_forward:](https://youtube.com/playlist?list=PLqRTLlwsxDL8LogzYk6FrGEM20us5Wkzh) | <https://github.com/polito-WA1-AW1-2022> |
-| Web Applications I (K-Z) |  L. De Russis | <http://bit.ly/polito-wa1-ii> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwQJhmKEK2v8JbjbJSklv12O)  | <https://github.com/polito-WA1-AW1-2022> |
-| Applicazioni Web I  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:]() | <https://github.com/polito-WA1-AW1-2022> |
+| Web Applications I (A-J)| F. Corno | <http://bit.ly/polito-wa1> | [:arrow_forward:](https://youtube.com/playlist?list=PLqRTLlwsxDL8LogzYk6FrGEM20us5Wkzh) | [wa1-aj-weeks](https://github.com/polito-WA1-AW1-2022/wa1-aj-weeks) |
+| Web Applications I (K-Z) |  L. De Russis | <http://bit.ly/polito-wa1-ii> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwQJhmKEK2v8JbjbJSklv12O)  | [wa1-kz-weeks](https://github.com/polito-WA1-AW1-2022/wa1-kz-weeks) |
+| Applicazioni Web I  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:]() |  |
 
-## Available repositories
+## Available repositories (common to the 3 courses)
+
+:house: [GitHub organization](https://github.com/polito-WA1-AW1-2022)
 
 :blue_book: [Course materials](https://github.com/polito-WA1-AW1-2022/materials)
