@@ -10,7 +10,7 @@ Detailed information about the course is available in the dedicated web pages.
 |----------|-------|---------|---------|--------|
 | Web Applications I (A-J)| F. Corno | <http://bit.ly/polito-wa1> | [:arrow_forward:](https://youtube.com/playlist?list=PLqRTLlwsxDL8LogzYk6FrGEM20us5Wkzh) | [wa1-aj-weeks](https://github.com/polito-WA1-AW1-2022/wa1-aj-weeks) |
 | Web Applications I (K-Z) |  L. De Russis | <http://bit.ly/polito-wa1-ii> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwQJhmKEK2v8JbjbJSklv12O)  | [wa1-kz-weeks](https://github.com/polito-WA1-AW1-2022/wa1-kz-weeks) |
-| Applicazioni Web I  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:]() |  |
+| Applicazioni Web I  | E. Masala | <http://media.polito.it/aw1> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pNj46XkNvtHLgQNCutui0ti) | [aw1-weeks](https://github.com/polito-WA1-AW1-2022/aw1-weeks) |
 
 ## Available repositories (common to the 3 courses)
 
